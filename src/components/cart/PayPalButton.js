@@ -23,12 +23,12 @@ export default class MyApp extends React.Component {
     };
 
     let env = "sandbox"; // you can set here to 'production' for production
-    let currency = "USD"; // or you can set this value from your props or state
+    let currency = "USA"; // or you can set this value from your props or state
     let total = 1; // same as above, this is the total amount (based on currency) to be paid by using Paypal express checkout
     // Document on Paypal's currency code: https://developer.paypal.com/docs/classic/api/currency_codes/
 
     const client = {
-      sandbox: "AcS25qeHPSKjZAISAHMJ20LTqHeLZbFGL0B-R5GWETROSAP9mAOWbC3Ue8TYzebAPMNskgXxnucnP6ve",
+      sandbox: "AWUMmA9BNezEByEHCCGxALkGzP9DniaN1LW9l6T9pJqgMuak-8QYwKyrBFKJ-33sckdeTKusLl24v0p9",
       production: "YOUR-PRODUCTION-APP-ID"
     };
     // In order to get production's app-ID, you will have to send your app to Paypal for approval first
