@@ -1,6 +1,6 @@
 ## Created by Iván Ruiz Gázquez following tutorial by Coding Addict:
 https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA
-## Functional online versión can be tested here:
+## Functional online version can be tested here:
 https://ivan-react-phone-store-tutorial.netlify.com/
 
 ## Also
